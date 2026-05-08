@@ -1,0 +1,8 @@
+# Core dependencies
+python-binance>=1.0.19
+flask>=3.0.0
+python-dotenv>=1.0.0
+
+# Optional: used by python-binance internally
+requests>=2.31.0
+websocket-client>=1.7.0
